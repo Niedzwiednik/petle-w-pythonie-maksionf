@@ -1,5 +1,5 @@
 # Python Zajęcia- pętle
-Pętle w Pythonie Starter Pack dla Thinking Zone
+Pętle w Pythonie Starter Pack
 # Pętelki
 
 W programowaniu, pętla oznacza powtarzanie czegoś wielokrotnie.
